@@ -20,7 +20,8 @@ profiles) with spanwise chord and pitch distribution tables.
 - Iterated on multiple diameter/pitch combinations to compare thrust/efficiency tradeoffs for
   different multirotor payload and endurance targets
 - Resolved geometry issues (self-intersection at blade root/tip) during CAD import and lofting
-- [Optional: add CFD validation details if you ran Fluent analysis on these]
+
+## CFD comparisons pending
 
 ## Tools
 SolidWorks, airfoil coordinate generation (NACA/Eppler profiles)

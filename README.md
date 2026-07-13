@@ -8,10 +8,10 @@ profiles) with spanwise chord and pitch distribution tables.
 | File | Image | Description |
 |---|---|---|
 | `NACA2310` | ![2310](https://github.com/shansuberr-ux/NACA-Eppler-airfoil-drone-blades/blob/main/2310.PNG) | Propeller blade variant — [diameter/pitch spec] |
-| `NACA2312` | ![2312]([./images/2312.png](https://github.com/shansuberr-ux/NACA-Eppler-airfoil-drone-blades/blob/main/2312.PNG)) | Propeller blade variant — [diameter/pitch spec] |
-| `NACA2412` | ![2412]([./images/2412.png](https://github.com/shansuberr-ux/NACA-Eppler-airfoil-drone-blades/blob/main/2412%20PROPELLOR.PNG)) | Propeller blade variant — [diameter/pitch spec] |
-| `NACA4412` | ![4412]([./images/4412.png](https://github.com/shansuberr-ux/NACA-Eppler-airfoil-drone-blades/blob/main/4412.PNG)) | Propeller blade variant — [diameter/pitch spec] |
-| `E216` | ![e216]([./images/e216.png](https://github.com/shansuberr-ux/NACA-Eppler-airfoil-drone-blades/blob/main/e216.PNG)) | Propeller blade variant — Eppler E216 airfoil-based design |
+| `NACA2312` | ![2312](https://github.com/shansuberr-ux/NACA-Eppler-airfoil-drone-blades/blob/main/2312.PNG) | Propeller blade variant — [diameter/pitch spec] |
+| `NACA2412` | ![2412](https://github.com/shansuberr-ux/NACA-Eppler-airfoil-drone-blades/blob/main/2412%20PROPELLOR.PNG) | Propeller blade variant — [diameter/pitch spec] |
+| `NACA4412` | ![4412](https://github.com/shansuberr-ux/NACA-Eppler-airfoil-drone-blades/blob/main/4412.PNG) | Propeller blade variant — [diameter/pitch spec] |
+| `E216` | ![e216](https://github.com/shansuberr-ux/NACA-Eppler-airfoil-drone-blades/blob/main/e216.PNG) | Propeller blade variant — Eppler E216 airfoil-based design |
 
 
 ## Design Approach
